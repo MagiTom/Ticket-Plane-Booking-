@@ -21,7 +21,7 @@ Angular, Scss, Express.js, MongoDB
 
 ## Demo
 
-<video src="/fontend/src/assets/ticket.webm />
+<img src="/fontend/src/assets/ticket.gif" />
 
 ## Installation
 
